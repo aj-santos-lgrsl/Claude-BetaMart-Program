@@ -1,0 +1,12 @@
+build/
+*.o
+*.out
+*.exe
+*.app
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+receipts/receipts.txt
+.DS_Store
+Thumbs.db
